@@ -1,0 +1,159 @@
+@keyframes rotate360 {
+    from {
+        transform: rotate(0deg) scale(1);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes flicker {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
+}
+
+@keyframes moveleft {
+    0% {
+      -webkit-transform: translate(0);
+      transform: translate(0);
+    }
+    50% {
+        -webkit-transform: translate(-15px);
+        transform: translate(-15px);
+    }
+    100% {
+        -webkit-transform: translate(0);
+        transform: translate(0);
+    }
+}
+
+@keyframes movedown {
+    0% {
+      -webkit-transform: translate(0);
+      transform: translate(0);
+    }
+    50% {
+        -webkit-transform: translateY(15px);
+        transform: translateY(15px);
+    }
+    100% {
+        -webkit-transform: translate(0);
+        transform: translate(0);
+    }
+}
+
+@keyframes move1 {
+    0% {
+      -webkit-transform: translate(0);
+      transform: translate(0);
+    }
+    33% {
+        -webkit-transform: translate(-15px,-15px);
+        transform: translate(-15px,-15px);
+    }
+    66% {
+        -webkit-transform: translate(-30px,0);
+        transform: translate(-30px,0);
+    }
+    100% {
+        -webkit-transform: translate(0);
+        transform: translate(0);
+    }
+}
+
+@keyframes slide-bg {
+    0% {
+      -webkit-transform: translateX(0%);
+      transform: translateX(0%);
+    }
+    100% {
+      -webkit-transform: translateX(-100%);
+      transform: translateX(-100%);
+    }
+}
+
+@keyframes rainbow { 
+    0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+@keyframes scale1 {
+    0% {
+		transform: scale(1);
+	}
+	50% {
+		transform: scale(1.2);
+	}
+	100% {
+		transform: scale(1);
+	}
+}
+
+@keyframes rotateleftright {
+	0% {
+		transform: rotate(-10deg);
+	}
+    50% {
+		transform: rotate(10deg);
+	}
+	100% {
+		transform: rotate(-10deg);
+	}
+}
+
+@keyframes rotateleftright1 {
+	0% {
+		transform: rotate(-2deg);
+	}
+    50% {
+		transform: rotate(2deg);
+	}
+	100% {
+		transform: rotate(-2deg);
+	}
+}
+
+@keyframes playline {
+    0% {
+        transform: translate3d(0,-50%,0) 
+    }
+
+    100% {
+        transform: translateY(0,0,0) 
+    }
+}
+
+@keyframes playline1 {
+    0% {
+        transform: translateY(0,0,0) 
+    }
+
+    100% {
+        transform: translate3d(0,-50%,0) 
+    }
+}
+
+@keyframes loader {
+    0% {
+        transform: scaleY(0.1);
+    }
+    50% {
+        transform: scaleY(1);
+        background: #462281;
+    }
+    100% {
+        transform: scaleY(0.1);
+        background: transparent;
+    }
+}

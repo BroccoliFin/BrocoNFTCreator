@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Set Up Your Wallet",
+    "description": "Fusce non dignissim velit, sit amet semper eros. Quisque orci est",
+    "image": "01"
+  },
+  {
+    "title": "Create collection",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque luctus",
+    "image": "02"
+  },
+  {
+    "title": "Add your NFTs",
+    "description": "Suspendisse porttitor id est non accumsan. Cras vel viverra velit",
+    "image": "03"
+  },
+  {
+    "title": "Sell your NFTs",
+    "description": "Maecenas non semper quam. Vivamus et arcu condimentum ipsum consectetur",
+    "image": "04"
+  }
+]
