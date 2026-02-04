@@ -32,6 +32,11 @@ Supports IPFS (Pinata), Shyft API for metadata, and Formspree for forms.
 3. Set up environment variables:
    Copy .env.example to .env.local
    Fill in your keys, address, fees:
+   NEXT_PUBLIC_PINATA_API_KEY=your_pinata_key
+NEXT_PUBLIC_PINATA_SECRET_API_KEY=your_pinata_secret
+NEXT_PUBLIC_SHYFT_API_KEY=your_shyft_key
+NEXT_PUBLIC_FORMSPREE_ENDPOINT=your_formspree
+NEXT_PUBLIC_NETWORK=devnet  # or mainnet
 
    PINATA KEYS
    NEXT_PUBLIC_PINATA_AIP_KEY = <YOUR_PUBLIC_PINATA_AIP_KEY>
