@@ -63,6 +63,15 @@ Supports IPFS (Pinata), Shyft API for metadata, and Formspree for forms.
 
 Tips: Use devnet for testing! Get free SOL from faucets below.
 
+### Useful Links
+Devnet SOL Faucet: https://faucet.solana.com/
+Solana Playground (programs): https://beta.solpg.io/
+Solana Explorer: https://explorer.solana.com/
+Shyft Docs: https://docs.shyft.to/
+Pinata IPFS: https://pinata.cloud/
+
+
+
 
 
 
