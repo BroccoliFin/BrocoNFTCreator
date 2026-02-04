@@ -22,7 +22,9 @@ Supports IPFS (Pinata), Shyft API for metadata, and Formspree for forms.
    ```bash
    git clone https://github.com/BroccoliFin/BrocoNFTCreator.git
    ```
+   ```bash
    cd BrocoNFTCreator
+   ```
 
 
 
