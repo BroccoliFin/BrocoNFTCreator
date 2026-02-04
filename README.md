@@ -34,6 +34,7 @@ Supports IPFS (Pinata), Shyft API for metadata, and Formspree for forms.
    Copy .env.example to .env.local
    ```
    Fill in your keys, address, fees:
+   ```
 NEXT_PUBLIC_PINATA_API_KEY=your_pinata_key
 NEXT_PUBLIC_PINATA_SECRET_API_KEY=your_pinata_secret
 NEXT_PUBLIC_SHYFT_API_KEY=your_shyft_key
