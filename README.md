@@ -32,7 +32,7 @@ Supports IPFS (Pinata), Shyft API for metadata, and Formspree for forms.
 3. Set up environment variables:
    Copy .env.example to .env.local
    Fill in your keys, address, fees:
-   ```
+   
 # PINATE KEYS
 NEXT_PUBLIC_PINATA_AIP_KEY = <YOUR_PUBLIC_PINATA_AIP_KEY>
 NEXT_PUBLIC_PINATA_SECRECT_KEY = <YOUR_PUBLIC_PINATA_SECRECT_KEY>
@@ -50,7 +50,7 @@ NEXT_PUBLIC_FORMSPREE_API = <YOUR_PUBLIC_FORMSPREE_API>
 # ADMIN 
 NEXT_PUBLIC_ADMIN = <YOUR_SOLANA_WALLET_ADDRESS>
 NEXT_PUBLIC_FEE = 0.5
-```
+
 
 
 
