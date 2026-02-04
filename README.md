@@ -30,8 +30,8 @@ Supports IPFS (Pinata), Shyft API for metadata, and Formspree for forms.
    npm install
    ```
 3. Set up environment variables:
-   
    Copy .env.example to .env.local
+   
    Fill in your keys, address, fees:
    
    
