@@ -1,18 +1,33 @@
-# Solana NFT Creator DApp with Next.js, Phantom Wallet, & Metaplex | Solana Blockchain Dapp
+# BrocoNFTCreator
 
-Build & Deploy a Solana NFT Creator DApp with Next.js, Phantom Wallet, & Metaplex | Solana Blockchain Dapp
+Solana NFT Creator DApp — Create and mint NFTs on Solana using Next.js, Phantom Wallet & Metaplex.  
+Supports IPFS (Pinata), Shyft API for metadata, and Formspree for forms.
+
+### Features
+- Connect Phantom/Solana wallet
+- Upload image + metadata (name, description, attributes)
+- Mint NFT on devnet (switch to mainnet in .env)
+- IPFS upload via Pinata
+- Real-time feedback with toast notifications
+- Responsive UI
+
+### Prerequisites
+- Node.js v18+ (tested on 18.12+)
+- NPM 8+
+- Solana wallet (Phantom recommended)
+- Accounts: Pinata (IPFS), Shyft API key, Formspree (optional)
+
+### Installation
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/BroccoliFin/BrocoNFTCreator.git
+   ```
+   cd BrocoNFTCreator
 
 
-#### NodeJs & NPM Version
 
-```https://nodejs.org/en/download
-  NodeJs: v18.12.1 || LATEST
-  NPM: 8.19.2 || LATEST
-```
 
-## Final Code Instruction
 
-If you download the final source code then you can follow the following instructions to run the Dapp successfully
 
 
 
