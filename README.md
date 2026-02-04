@@ -25,6 +25,12 @@ Supports IPFS (Pinata), Shyft API for metadata, and Formspree for forms.
    ```bash
    cd BrocoNFTCreator
    ```
+   Install dependencies:
+   ```bash
+   npm install
+   ```
+
+
 
 
 
