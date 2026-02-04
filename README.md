@@ -55,6 +55,13 @@ Supports IPFS (Pinata), Shyft API for metadata, and Formspree for forms.
    npm run dev
    ```
 
+### Usage
+- Connect your wallet (Phantom/Solflare).
+- Upload image and fill metadata.
+- Click "Mint NFT" → confirm tx in wallet.
+- View minted NFT on Solana Explorer (devnet).
+
+Tips: Use devnet for testing! Get free SOL from faucets below.
 
 
 
@@ -71,38 +78,9 @@ Supports IPFS (Pinata), Shyft API for metadata, and Formspree for forms.
 
 
 
-#### NodeJs & NPM Version
 
-```https://nodejs.org/en/download
-  NodeJs: v18.12.1 || LATEST
-  NPM: 8.19.2 || LATEST
-```
 
-#### Test Faucets
 
-Alchemy will provide you with some free test faucets which you can transfer to your wallet address for deploying the contract
-
-```
-  Get: Free Test Faucets
-  URL : https://beta.solpg.io/
-  URL : https://faucet.solana.com/
-```
-
-#### Solana Playground
-
-We are using Solana Playground for deploying the contract and generation of the ABI in the project, but you can use any other tools like Hardhat, etc.
-
-```
-  OPEN: Solana Playground
-  URL: https://beta.solpg.io/
-```
-
-#### Solana Network
-
-```
-  OPEN: Solana Network
-  URL: https://explorer.solana.com/
-```
 
 
 
