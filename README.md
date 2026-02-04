@@ -34,6 +34,7 @@ Supports IPFS (Pinata), Shyft API for metadata, and Formspree for forms.
    Copy .env.example to .env.local
    
    Fill in your keys, address, fees:
+   ```
    PINATA KEYS
    NEXT_PUBLIC_PINATA_AIP_KEY = <YOUR_PUBLIC_PINATA_AIP_KEY>
    NEXT_PUBLIC_PINATA_SECRECT_KEY = <YOUR_PUBLIC_PINATA_SECRECT_KEY>
@@ -47,6 +48,7 @@ Supports IPFS (Pinata), Shyft API for metadata, and Formspree for forms.
    ADMIN 
    NEXT_PUBLIC_ADMIN = <YOUR_SOLANA_WALLET_ADDRESS>
    NEXT_PUBLIC_FEE = 0.5
+   ```
 
 4.Run locally:
    ```bash
