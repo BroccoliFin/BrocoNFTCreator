@@ -54,6 +54,13 @@ NEXT_PUBLIC_NETWORK=devnet  # or mainnet
    NEXT_PUBLIC_ADMIN = <YOUR_SOLANA_WALLET_ADDRESS>
    NEXT_PUBLIC_FEE = 0.5
 
+4.Run locally:
+   ```bash
+   npm run dev
+   ```
+
+
+
 
 
 
