@@ -26,7 +26,7 @@ import {
   FaExternalLinkAlt,
 } from "../Components/SVG/index";
 
-const SHYFT_AIP = process.env.NEXT_PUBLIC_SHYFT_AIP_KEY;
+const SHYFT_AIP = process.env.NEXT_PUBLIC_SHYFT_API_KEY;
 const NETWORK = process.env.NEXT_PUBLIC_NETWORK;
 const ADMIN_ADDRESS = process.env.NEXT_PUBLIC_ADMIN;
 const NFT_FEE = process.env.NEXT_PUBLIC_FEE;

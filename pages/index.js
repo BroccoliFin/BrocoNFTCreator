@@ -17,7 +17,7 @@ import {
   Discover,
 } from "../Components/index";
 
-const SHYFT_AIP = process.env.NEXT_PUBLIC_SHYFT_AIP_KEY;
+const SHYFT_AIP = process.env.NEXT_PUBLIC_SHYFT_API_KEY;
 const NETWORK = process.env.NEXT_PUBLIC_NETWORK;
 
 const index = () => {

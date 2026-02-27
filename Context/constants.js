@@ -1,9 +1,9 @@
 import axios from "axios";
 import toast from "react-hot-toast";
 
-//PINATE API - SECRECT KEYS
-const PINATA_AIP_KEY = process.env.NEXT_PUBLIC_PINATA_AIP_KEY;
-const PINATA_SECRECT_KEY = process.env.NEXT_PUBLIC_PINATA_SECRECT_KEY;
+//PINATA API - SECRET KEYS
+const PINATA_API_KEY = process.env.NEXT_PUBLIC_PINATA_API_KEY;
+const PINATA_SECRET_KEY = process.env.NEXT_PUBLIC_PINATA_SECRET_KEY;
 
 const notifySuccess = (msg) => toast.success(msg, { duration: 2000 });
 const notifyError = (msg) => toast.error(msg, { duration: 2000 });
