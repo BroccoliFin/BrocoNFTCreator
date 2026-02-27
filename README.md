@@ -7,7 +7,7 @@
 <p align="center">
   <strong>Solana NFT Creator DApp</strong>
 </p>
-<img width="1440" height="900" alt="Снимок экрана 2026-02-27 в 22 52 21" src="https://github.com/user-attachments/assets/55d80f14-a20d-4bea-ad8f-fa98f4c3b361" />
+
 
 
 
