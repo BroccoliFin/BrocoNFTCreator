@@ -11,7 +11,6 @@
 
 
 
-# BrocoNFTCreator
 
 Solana NFT Creator DApp — Create and mint NFTs on Solana using Next.js, Phantom Wallet & Metaplex.  
 Supports IPFS (Pinata), Shyft API for metadata, and Formspree for forms.
