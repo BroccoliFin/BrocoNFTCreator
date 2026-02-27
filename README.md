@@ -2,10 +2,10 @@
 
 
 
-<h1 align="center">NeuroClaw</h1>
+<h1 align="center">BrocoNFTCreator</h1>
 
 <p align="center">
-  <strong>Decentralized artificial intelligence agents inspired by the brain.</strong>
+  <strong>Solana NFT Creator DApp</strong>
 </p>
 
 
