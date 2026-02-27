@@ -12,7 +12,7 @@
 
 
 
-Solana NFT Creator DApp — Create and mint NFTs on Solana using Next.js, Phantom Wallet & Metaplex.  
+Create and mint NFTs on Solana using Next.js, Phantom Wallet & Metaplex.  
 Supports IPFS (Pinata), Shyft API for metadata, and Formspree for forms.
 
 ### Features
@@ -57,7 +57,7 @@ NEXT_PUBLIC_SHYFT_API_KEY = <YOUR_PUBLIC_SHYFT_API_KEY>
 
 ### NETWORK
 NEXT_PUBLIC_NETWORK = devnet
-# NEXT_PUBLIC_NETWORK = mainnet
+NEXT_PUBLIC_NETWORK = mainnet
 
 ### FORMSPREE
 NEXT_PUBLIC_FORMSPREE_API = <YOUR_PUBLIC_FORMSPREE_API>
@@ -66,7 +66,7 @@ NEXT_PUBLIC_FORMSPREE_API = <YOUR_PUBLIC_FORMSPREE_API>
 NEXT_PUBLIC_ADMIN = <YOUR_SOLANA_WALLET_ADDRESS>
 NEXT_PUBLIC_FEE = 0.5
 
-   ```
+   
 
 4.Run locally:
    ```bash
@@ -96,4 +96,4 @@ Tips: Use devnet for testing! Get free SOL from faucets below.
 - X (Twitter): https://x.com/broccolifinance
 - Telegram: https://t.me/mike2money
 - Issues/PRs welcome!
-```
+
