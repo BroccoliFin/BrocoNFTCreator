@@ -14,8 +14,9 @@
 
 
 
-Create and mint NFTs on Solana using Next.js, Phantom Wallet & Metaplex.  
-Supports IPFS (Pinata), Shyft API for metadata, and Formspree for forms.
+<p align="center"><strong>Create and mint NFTs on Solana using Next.js, Phantom Wallet & Metaplex.  
+Supports IPFS (Pinata), Shyft API for metadata, and Formspree for forms.</strong>
+</p>
 
 ### Features
 - Connect Phantom/Solana wallet
