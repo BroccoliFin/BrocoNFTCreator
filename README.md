@@ -50,28 +50,7 @@ Supports IPFS (Pinata), Shyft API for metadata, and Formspree for forms.</strong
    
    Fill in your keys, address, fees:
    ```
- 
- ### PINATA KEYS
-NEXT_PUBLIC_PINATA_API_KEY = <YOUR_PUBLIC_PINATA_API_KEY>
-NEXT_PUBLIC_PINATA_SECRET_KEY = <YOUR_PUBLIC_PINATA_SECRET_KEY>
-
- ### SHYFT
-NEXT_PUBLIC_SHYFT_API_KEY = <YOUR_PUBLIC_SHYFT_API_KEY>
-
- ### NETWORK
-NEXT_PUBLIC_NETWORK = devnet
-NEXT_PUBLIC_NETWORK = mainnet
-
- ### FORMSPREE
-NEXT_PUBLIC_FORMSPREE_API = <YOUR_PUBLIC_FORMSPREE_API>
-
- ### ADMIN 
-NEXT_PUBLIC_ADMIN = <YOUR_SOLANA_WALLET_ADDRESS>
-NEXT_PUBLIC_FEE = 0.5
-
-   
-
-4.Run locally:
+4. Run locally:
    ```bash
    npm run dev
    ```
