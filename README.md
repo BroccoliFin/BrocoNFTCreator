@@ -50,9 +50,11 @@ Supports IPFS (Pinata), Shyft API for metadata, and Formspree for forms.</strong
    
    Fill in your keys, address, fees:
 
-PINATA KEYS
+  PINATA KEYS
+  NEXT_PUBLIC_PINATA_API_KEYS = <YOUR_PUBLIC_PINATA_API_KEYS>
+  NEXT_PUBLIC_PINATA_SECRET_KEYS = <YOUR_PUBLIC_PINATA_SECRET_KEYS>
 
-5. Run locally:
+4. Run locally:
    ```bash
    npm run dev
    ```
