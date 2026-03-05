@@ -49,8 +49,9 @@ Supports IPFS (Pinata), Shyft API for metadata, and Formspree for forms.</strong
    Copy .env.example to .env.local
    
    Fill in your keys, address, fees:
+
 PINATA KEYS
-   ```
+
 5. Run locally:
    ```bash
    npm run dev
