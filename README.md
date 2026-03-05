@@ -51,7 +51,7 @@ Supports IPFS (Pinata), Shyft API for metadata, and Formspree for forms.</strong
    Fill in your keys, address, fees:
 
   
-  - PINATA 
+  - PINATA KEYS
   
   NEXT_PUBLIC_PINATA_API_KEY = <YOUR_PUBLIC_PINATA_API_KEY>
   
