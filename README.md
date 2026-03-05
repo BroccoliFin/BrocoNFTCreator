@@ -51,31 +51,31 @@ Supports IPFS (Pinata), Shyft API for metadata, and Formspree for forms.</strong
    Fill in your keys, address, fees:
 
   
-  PINATA 
+  - PINATA 
   
   NEXT_PUBLIC_PINATA_API_KEY = <YOUR_PUBLIC_PINATA_API_KEY>
   
   NEXT_PUBLIC_PINATA_SECRET_KEY = <YOUR_PUBLIC_PINATA_SECRET_KEY>
 
   
-  SHYFT
+  - SHYFT
 
   NEXT_PUBLIC_SHYFT_API_KEY = <YOUR_PUBLIC_SHYFT_API_KEY>
 
   
-  NETWORK
+  - NETWORK
   
   NEXT_PUBLIC_NETWORK = devnet
   
   NEXT_PUBLIC_NETWORK = mainnet
 
   
-  FORMSPREE
+  - FORMSPREE
   
   NEXT_PUBLIC_FORMSPREE_API = <YOUR_PUBLIC_FORMSPREE_API>
 
   
-  ADMIN 
+  - ADMIN 
   
   NEXT_PUBLIC_ADMIN = <YOUR_SOLANA_WALLET_ADDRESS>
   
