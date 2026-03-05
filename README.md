@@ -51,8 +51,10 @@ Supports IPFS (Pinata), Shyft API for metadata, and Formspree for forms.</strong
    Fill in your keys, address, fees:
 
   PINATA KEYS
+  
   NEXT_PUBLIC_PINATA_API_KEYS = <YOUR_PUBLIC_PINATA_API_KEYS>
-NEXT_PUBLIC_PINATA_SECRET_KEYS = <YOUR_PUBLIC_PINATA_SECRET_KEYS>
+
+  NEXT_PUBLIC_PINATA_SECRET_KEYS = <YOUR_PUBLIC_PINATA_SECRET_KEYS>
 
 4. Run locally:
    ```bash
